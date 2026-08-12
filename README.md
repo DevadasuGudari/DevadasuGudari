@@ -21,23 +21,24 @@ I focus on creating **responsive, user-friendly and practical projects** using m
 
 ## 🛠️ Technical Skills
 
-### Frontend
+Frontend
+• HTML5
+• CSS3
 
-* HTML5
-* CSS3
-* Responsive Web Design
+Currently Learning
+• JavaScript
+• React.js
+• Backend Development
+• Database Technologies
 
-### Database
+Design
+• Adobe Photoshop — Basic
+• Adobe Illustrator — Basic
 
-* MySQL
-
-### Tools & Design
-
-* Git
-* GitHub
-* VS Code
-* Adobe Photoshop
-* Adobe Illustrator
+Tools
+• Git
+• GitHub
+• VS Code
 
 ---
 
