@@ -44,7 +44,7 @@ Tools
 
 ## 🚀 Featured Projects
 
-### 🍽️ Rangoli — Restaurant Website
+### 🍽️ Foodie's Kitchen — Restaurant Website
 
 A modern responsive restaurant website inspired by Indian culture and dining experiences.
 
@@ -61,7 +61,7 @@ A modern responsive restaurant website inspired by Indian culture and dining exp
 * Add-to-cart functionality
 * Modern UI design
 
-🔗 [View Repository](https://github.com/DevadasuGudari/restaurent-repo)
+🔗 [View Repository](https://github.com/DevadasuGudari/foodie-s-kitchen)
 
 ---
 
