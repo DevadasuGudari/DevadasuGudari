@@ -16,15 +16,13 @@ Computer Science graduate focused on building responsive, user-friendly web appl
 
 ## Technical Skills
 
-| Category | Technologies |
+| Category | Skills |
 |---|---|
-| **Frontend** | HTML5, CSS3, JavaScript, React.js |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB |
-| **Tools** | Git, GitHub, VS Code, Netlify |
-| **Design** | Adobe Photoshop (basic), Adobe Illustrator (basic) |
-
-**Currently learning:** Java, Spring Boot, backend development, database management
+| **Frontend** | HTML5, CSS3 |
+| **Tools** | Git, GitHub, VS Code |
+| **Design** | Adobe Photoshop (Basic), Adobe Illustrator (Basic) |
+| **Project Exposure** | MERN Stack (MongoDB, Express.js, React.js, Node.js) through the LearnHub group project |
+| **Currently Learning** | JavaScript, React.js, Java, Spring Boot, Backend Development, Database Management |
 
 ---
 
