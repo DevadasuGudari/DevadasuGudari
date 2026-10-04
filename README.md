@@ -1,161 +1,225 @@
 # 👋 Hi, I'm Gudari Devadasu
 
-## 👨‍💻 About Me
+### 💻 B.Tech CSE Graduate | Aspiring Full Stack Developer
 
-I am a **B.Tech Computer Science & Engineering graduate** and an aspiring **Full Stack Developer**. I enjoy building responsive websites and web applications and learning new technologies through practical projects.
-
-I have experience with **HTML, CSS, JavaScript, React.js, Java, Django, MySQL, and MongoDB**. I am currently improving my skills in **Java, Spring Boot, React.js, and Full Stack Development**.
-
-I am looking for an opportunity to start my career as a **Software / Full Stack Developer**, contribute to real-world projects, and grow as a developer.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=DevadasuGudari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 About Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gudaridevadasu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gudari-devadasu-81141130a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://devadas-portfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/DevadasuGudari)
+Hi! I'm **Gudari Devadasu**, a **B.Tech Computer Science & Engineering graduate** and an aspiring **Full Stack Developer**.
 
----
+💡 I enjoy turning ideas into **responsive and user-friendly web applications**.
+🛠️ I learn by **building real projects** and improving my skills through practical experience.
+🌱 Currently focusing on **Java, Spring Boot, React.js, JavaScript, MySQL, and MongoDB**.
+🎯 Looking for an opportunity to start my career as a **Software / Full Stack Developer**.
 
-## 💻 Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### Tools & Design
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+> **Learn → Build → Improve → Grow 🚀**
 
 ---
 
-# 🚀 Projects
+## 🌐 Let's Connect
 
-## 🍽️ Foodie's Kitchen
+<p align="left">
 
-A responsive restaurant website built using **HTML and CSS**.  
-Created pages for the menu, gallery, reservation, login, signup, feedback, and cart.
+<a href="mailto:gudaridevadasu@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-### 🛠️ Skills Used
+<a href="https://www.linkedin.com/in/gudari-devadasu-81141130a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<a href="https://devadas-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-🔗 [Repository](https://github.com/DevadasuGudari/foodie-s-kitchen)
+<a href="https://github.com/DevadasuGudari">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
-
-## 📚 LearnHub
-
-A MERN Stack learning platform built as a **group project**.  
-Used **MongoDB, Express.js, React.js, and Node.js** to create a simple course-based learning website.
-
-### 🛠️ Skills Used
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-🔗 [Repository](https://github.com/DevadasuGudari/LearnHub-repo)
+</p>
 
 ---
 
-## 💼 Personal Portfolio
+# 🛠️ Tech Stack
 
-A personal portfolio website built using **HTML, CSS, and JavaScript**.  
-Created to showcase my skills, projects, education, and contact information.
+### 🎨 Frontend
 
-### 🛠️ Skills Used
+<p align="left">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-🔗 [Repository](https://github.com/DevadasuGudari/portfolio-repo)
+</p>
 
-🌐 [Live Website](https://devadas-portfolio.netlify.app/)
+### ⚙️ Backend
+
+<p align="left">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+</p>
+
+### 🔧 Tools & Design
+
+<p align="left">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
+
+</p>
 
 ---
 
-## 🎨 HTML & CSS Reference
+# 🚀 Featured Projects
 
-A simple learning website built using **HTML and CSS**.  
-Created to explain HTML and CSS concepts such as selectors, box model, layouts, responsive design, and animations.
+### 🍽️ Foodie's Kitchen
 
-### 🛠️ Skills Used
+A responsive restaurant website built using **HTML and CSS**. Created pages for the menu, gallery, reservation, login, signup, feedback, and cart.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Skills Used**
 
-🔗 [Repository](https://github.com/DevadasuGudari/html-reference-repo)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
----
-
-## 🚗 Velocity Motors
-
-A responsive car landing page built using **HTML and CSS**.  
-Created to practice modern layouts, responsive design, navigation, and car presentation.
-
-### 🛠️ Skills Used
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-🔗 [Repository](https://github.com/DevadasuGudari/landing-page)
+🔗 **[View Repository](https://github.com/DevadasuGudari/foodie-s-kitchen)**
 
 ---
 
-# 📊 GitHub Stats
+### 📚 LearnHub
 
-![](https://github-readme-stats.vercel.app/api?username=DevadasuGudari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+A **MERN Stack learning platform** built as a group project. Used MongoDB, Express.js, React.js, and Node.js to create a simple course-based learning website.
 
-![](https://nirzak-streak-stats.vercel.app/?user=DevadasuGudari&theme=dark&hide_border=false)
+**Skills Used**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevadasuGudari&theme=dark&hide_border=false&layout=compact)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+
+🔗 **[View Repository](https://github.com/DevadasuGudari/LearnHub-repo)**
+
+---
+
+### 💼 Personal Portfolio
+
+A personal portfolio website built using **HTML, CSS, and JavaScript** to showcase my skills, projects, education, and contact information.
+
+**Skills Used**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+
+🔗 **[View Repository](https://github.com/DevadasuGudari/portfolio-repo)**
+
+🌐 **[Live Portfolio](https://devadas-portfolio.netlify.app/)**
+
+---
+
+### 🎨 HTML & CSS Reference
+
+A simple learning website built using **HTML and CSS** to explain selectors, box model, layouts, responsive design, and animations.
+
+**Skills Used**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+
+🔗 **[View Repository](https://github.com/DevadasuGudari/html-reference-repo)**
+
+---
+
+### 🚗 Velocity Motors
+
+A responsive car landing page built using **HTML and CSS**. Created to practice modern layouts, responsive design, navigation, and car presentation.
+
+**Skills Used**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+
+🔗 **[View Repository](https://github.com/DevadasuGudari/landing-page)**
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DevadasuGudari&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=DevadasuGudari&theme=dark&hide_border=false" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevadasuGudari&theme=dark&hide_border=false&layout=compact" />
+
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
-- JavaScript
-- React.js
-- Java
-- Spring Boot
-- MySQL
-- MongoDB
-- Full Stack Development
+<p align="left">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+
+</p>
 
 ---
 
 # 🎯 Career Goal
 
-To start my career as a **Software / Full Stack Developer** and grow by working on real-world projects.
+I aim to start my career as a **Software / Full Stack Developer**, work on real-world applications, continuously improve my technical skills, and grow as a professional developer.
 
 ---
 
-## ⭐ Thanks for Visiting My Profile!
+## 💡 My Development Journey
 
-**Learn → Build → Improve → Grow 🚀**
+```text
+Learn → Practice → Build → Solve → Improve → Grow 🚀
+```
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+**Feel free to explore my repositories and projects.**
+
+</p>
