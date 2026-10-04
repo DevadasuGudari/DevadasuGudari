@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Gudari Devadasu
 
-### B.Tech CSE Graduate | Aspiring Full Stack Developer
+## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science & Engineering Graduate  
-💻 Aspiring Full Stack Developer  
-🌱 Learning Java, JavaScript, React.js & Spring Boot  
-🚀 Building real-world projects  
-🎯 Looking for Software / Full Stack Developer opportunities  
+I am a **B.Tech Computer Science & Engineering graduate** and an aspiring **Full Stack Developer**. I enjoy building responsive websites and web applications and learning new technologies through practical projects.
+
+I have experience with **HTML, CSS, JavaScript, React.js, Java, Django, MySQL, and MongoDB**. I am currently improving my skills in **Java, Spring Boot, React.js, and Full Stack Development**.
+
+I am looking for an opportunity to start my career as a **Software / Full Stack Developer**, contribute to real-world projects, and grow as a developer.
 
 ---
 
