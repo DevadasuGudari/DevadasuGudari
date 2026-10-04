@@ -1,18 +1,12 @@
 # 👋 Hi, I'm Gudari Devadasu
 
-### B.Tech Computer Science & Engineering Graduate | Aspiring Full Stack Developer
+### B.Tech CSE Graduate | Aspiring Full Stack Developer
 
-I'm a **Computer Science & Engineering graduate and aspiring Full Stack Developer** passionate about building responsive, user-friendly, and practical web applications.
-
-I enjoy learning through hands-on development, building real-world projects, and continuously improving my programming and problem-solving skills.
-
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Aspiring Full Stack Developer
-- 🌱 Currently strengthening my skills in Java, JavaScript, React.js & Spring Boot
-- 🚀 Building practical projects to gain real-world development experience
-- 🗄️ Interested in backend development, databases, and full-stack application development
-- 🎯 Seeking opportunities to begin my professional career as a Software / Full Stack Developer
-- ⚡ **Learn → Build → Improve → Deploy → Repeat**
+🎓 Computer Science & Engineering Graduate  
+💻 Aspiring Full Stack Developer  
+🌱 Currently learning Java, JavaScript, React.js & Spring Boot  
+🚀 Building real-world projects  
+🎯 Looking for Software / Full Stack Developer opportunities  
 
 ---
 
@@ -25,75 +19,59 @@ I enjoy learning through hands-on development, building real-world projects, and
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack
 
-### Frontend Development
-
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### Backend Development
-
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-### Databases
-
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Tools & Design
-
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍽️ Foodie's Kitchen — Restaurant Website
+### 🍽️ Foodie's Kitchen
 
-A responsive restaurant website designed around an Indian dining experience, focusing on clean UI, intuitive navigation, and a user-friendly browsing experience.
+Restaurant website with a modern and responsive design.
 
-**Tech Stack:** HTML, CSS
+**Tech:** HTML, CSS
 
-**Key Features:**
-
-- Responsive website design
-- Restaurant menu
-- Food gallery
-- Reservation page
-- Login & signup interfaces
-- Feedback page
-- Add-to-cart functionality
-- Modern and user-friendly UI
+- Menu
+- Gallery
+- Reservation
+- Login & Signup
+- Feedback
+- Add to Cart
 
 🔗 [View Repository](https://github.com/DevadasuGudari/foodie-s-kitchen)
 
 ---
 
-### 📚 LearnHub — Skill Enhancement Platform
+### 📚 LearnHub
 
-**LearnHub** is a MERN Stack group project designed as a learning platform where students can explore courses and improve their technical skills.
+MERN Stack learning platform developed as a group project.
 
-**Project Type:** Group Project
+**Tech:** MongoDB, Express.js, React.js, Node.js
 
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js
-
-**Key Focus Areas:**
-
-- Course-based learning platform
-- Student-oriented interface
-- Responsive frontend
-- Learning-focused UI
-- Structured course experience
+- Course-based platform
+- Student-focused UI
+- Responsive design
 
 🔗 [View Repository](https://github.com/DevadasuGudari/LearnHub-repo)
 
@@ -101,19 +79,9 @@ A responsive restaurant website designed around an Indian dining experience, foc
 
 ### 💼 Personal Portfolio
 
-A personal portfolio website created to showcase my **skills, projects, education, certifications, and development journey**.
+Personal website to showcase my skills, projects and education.
 
-**Tech Stack:** HTML, CSS, JavaScript
-
-**Key Features:**
-
-- Responsive design
-- About section
-- Skills showcase
-- Project portfolio
-- Education section
-- Contact section
-- Modern UI
+**Tech:** HTML, CSS, JavaScript
 
 🔗 [View Repository](https://github.com/DevadasuGudari/portfolio-repo)
 
@@ -123,21 +91,17 @@ A personal portfolio website created to showcase my **skills, projects, educatio
 
 ### 🎨 HTML & CSS Reference
 
-A beginner-friendly reference website created to explain fundamental **HTML and CSS concepts** through simple examples and organized sections.
+Simple website for learning HTML and CSS concepts.
 
-**Tech Stack:** HTML, CSS
+**Tech:** HTML, CSS
 
-**Topics Covered:**
-
-- HTML fundamentals
-- CSS basics
+- HTML Basics
+- CSS Basics
 - Selectors
-- Colors
-- Typography
 - Box Model
 - Layout
 - Responsive Design
-- CSS Animations
+- Animations
 
 🔗 [View Repository](https://github.com/DevadasuGudari/html-reference-repo)
 
@@ -145,41 +109,21 @@ A beginner-friendly reference website created to explain fundamental **HTML and 
 
 ### 🚗 Velocity Motors
 
-A responsive automotive landing page created to practice modern frontend layouts, visual hierarchy, responsive design, and interactive UI elements.
+Responsive car landing page created using HTML and CSS.
 
-**Tech Stack:** HTML, CSS
-
-**Focus Areas:**
-
-- Responsive layouts
-- Automotive UI design
-- Modern landing page structure
-- Visual presentation
-- User-friendly navigation
+**Tech:** HTML, CSS
 
 🔗 [View Repository](https://github.com/DevadasuGudari/landing-page)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=DevadasuGudari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=DevadasuGudari&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevadasuGudari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=DevadasuGudari&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 📈 Contribution Highlights
-
-![](https://github-contributor-stats.vercel.app/api?username=DevadasuGudari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevadasuGudari&theme=dark&hide_border=false&layout=compact)
 
 ---
 
@@ -190,32 +134,18 @@ A responsive automotive landing page created to practice modern frontend layouts
 - Java
 - Spring Boot
 - Backend Development
-- REST API Development
-- MySQL & MongoDB
-- Database Management
-- Full Stack Web Development
-- Git & GitHub
+- MySQL
+- MongoDB
+- Full Stack Development
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Career Goal
 
-I am looking for an opportunity to begin my professional career as a **Software Developer or Full Stack Developer** where I can apply my technical knowledge, contribute to real-world projects, learn from experienced professionals, and grow as a software engineer.
-
-My goal is to continuously improve my technical and problem-solving skills while building reliable, scalable, and user-focused applications.
+To start my career as a **Software / Full Stack Developer** and grow by working on real-world projects.
 
 ---
 
-## 📫 Let's Connect
+### ⭐ Thanks for visiting my profile!
 
-I'm open to **entry-level software development opportunities, internships, collaborative projects, and learning opportunities**.
-
-If you're interested in connecting or collaborating, feel free to reach out through my social profiles.
-
----
-
-## ⭐ Thanks for Visiting My Profile!
-
-If you find my projects useful or interesting, feel free to **explore my repositories and follow my development journey**.
-
-### 🚀 Keep Learning. Keep Building. Keep Improving.
+**Learn → Build → Improve → Grow 🚀**
