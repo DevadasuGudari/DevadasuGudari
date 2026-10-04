@@ -57,6 +57,8 @@
 A responsive restaurant website built using **HTML and CSS**.  
 Created pages for the menu, gallery, reservation, login, signup, feedback, and cart.
 
+**Skills Used:** HTML, CSS, Responsive Web Design
+
 🔗 [Repository](https://github.com/DevadasuGudari/foodie-s-kitchen)
 
 ---
@@ -66,6 +68,8 @@ Created pages for the menu, gallery, reservation, login, signup, feedback, and c
 A MERN Stack learning platform built as a **group project**.  
 Used **MongoDB, Express.js, React.js, and Node.js** to create a simple course-based learning website.
 
+**Skills Used:** MongoDB, Express.js, React.js, Node.js, JavaScript, MERN Stack
+
 🔗 [Repository](https://github.com/DevadasuGudari/LearnHub-repo)
 
 ---
@@ -74,6 +78,8 @@ Used **MongoDB, Express.js, React.js, and Node.js** to create a simple course-ba
 
 A personal portfolio website built using **HTML, CSS, and JavaScript**.  
 Created to showcase my skills, projects, education, and contact information.
+
+**Skills Used:** HTML, CSS, JavaScript, Responsive Web Design
 
 🔗 [Repository](https://github.com/DevadasuGudari/portfolio-repo)
 
@@ -86,6 +92,8 @@ Created to showcase my skills, projects, education, and contact information.
 A simple learning website built using **HTML and CSS**.  
 Created to explain HTML and CSS concepts such as selectors, box model, layouts, responsive design, and animations.
 
+**Skills Used:** HTML, CSS, Responsive Design, CSS Animations
+
 🔗 [Repository](https://github.com/DevadasuGudari/html-reference-repo)
 
 ---
@@ -94,6 +102,8 @@ Created to explain HTML and CSS concepts such as selectors, box model, layouts, 
 
 A responsive car landing page built using **HTML and CSS**.  
 Created to practice modern layouts, responsive design, navigation, and car presentation.
+
+**Skills Used:** HTML, CSS, Responsive Web Design, CSS Layouts
 
 🔗 [Repository](https://github.com/DevadasuGudari/landing-page)
 
