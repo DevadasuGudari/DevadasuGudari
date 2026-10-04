@@ -109,12 +109,6 @@ Created to practice modern layouts, responsive design, navigation, and car prese
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=DevadasuGudari&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 # 🌱 Currently Learning
 
 - JavaScript
