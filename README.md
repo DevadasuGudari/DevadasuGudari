@@ -57,7 +57,10 @@
 A responsive restaurant website built using **HTML and CSS**.  
 Created pages for the menu, gallery, reservation, login, signup, feedback, and cart.
 
-**Skills Used:** HTML, CSS, Responsive Web Design
+### 🛠️ Skills Used
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 🔗 [Repository](https://github.com/DevadasuGudari/foodie-s-kitchen)
 
@@ -68,7 +71,13 @@ Created pages for the menu, gallery, reservation, login, signup, feedback, and c
 A MERN Stack learning platform built as a **group project**.  
 Used **MongoDB, Express.js, React.js, and Node.js** to create a simple course-based learning website.
 
-**Skills Used:** MongoDB, Express.js, React.js, Node.js, JavaScript, MERN Stack
+### 🛠️ Skills Used
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 🔗 [Repository](https://github.com/DevadasuGudari/LearnHub-repo)
 
@@ -79,7 +88,11 @@ Used **MongoDB, Express.js, React.js, and Node.js** to create a simple course-ba
 A personal portfolio website built using **HTML, CSS, and JavaScript**.  
 Created to showcase my skills, projects, education, and contact information.
 
-**Skills Used:** HTML, CSS, JavaScript, Responsive Web Design
+### 🛠️ Skills Used
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 🔗 [Repository](https://github.com/DevadasuGudari/portfolio-repo)
 
@@ -92,7 +105,10 @@ Created to showcase my skills, projects, education, and contact information.
 A simple learning website built using **HTML and CSS**.  
 Created to explain HTML and CSS concepts such as selectors, box model, layouts, responsive design, and animations.
 
-**Skills Used:** HTML, CSS, Responsive Design, CSS Animations
+### 🛠️ Skills Used
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 🔗 [Repository](https://github.com/DevadasuGudari/html-reference-repo)
 
@@ -103,7 +119,10 @@ Created to explain HTML and CSS concepts such as selectors, box model, layouts, 
 A responsive car landing page built using **HTML and CSS**.  
 Created to practice modern layouts, responsive design, navigation, and car presentation.
 
-**Skills Used:** HTML, CSS, Responsive Web Design, CSS Layouts
+### 🛠️ Skills Used
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 🔗 [Repository](https://github.com/DevadasuGudari/landing-page)
 
