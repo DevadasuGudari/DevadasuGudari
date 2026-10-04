@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-DevadasuGudari-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://devadas-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="">
   </a>
   <a href="https://www.linkedin.com/in/gudari-devadasu-81141130a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
