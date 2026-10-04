@@ -2,13 +2,11 @@
 
 ### B.Tech CSE Graduate | Aspiring Full Stack Developer
 
-I'm a Computer Science & Engineering graduate interested in building web applications and learning full-stack development.
-
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Aspiring Full Stack Developer
-- 🌱 Currently learning Java, JavaScript, React.js & Spring Boot
-- 🚀 Interested in building real-world applications
-- 🎯 Looking for Software / Full Stack Developer opportunities
+🎓 B.Tech Computer Science & Engineering Graduate  
+💻 Aspiring Full Stack Developer  
+🌱 Learning Java, JavaScript, React.js & Spring Boot  
+🚀 Building real-world projects  
+🎯 Looking for Software / Full Stack Developer opportunities  
 
 ---
 
@@ -21,81 +19,103 @@ I'm a Computer Science & Engineering graduate interested in building web applica
 
 ---
 
-## 💻 Skills
+## 💻 Tech Stack
 
 ### Frontend
-HTML • CSS • JavaScript • React.js
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ### Backend
-Java • Spring Boot • Django
 
-### Databases
-MySQL • MongoDB
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### Tools & Design
-Git • GitHub • VS Code • Figma • Photoshop • Illustrator
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-### 🍽️ Foodie's Kitchen
+## 🍽️ Foodie's Kitchen
 
-A responsive restaurant website created using **HTML and CSS**.  
-Includes menu, gallery, reservation, login, signup, feedback, and cart pages.
+A responsive restaurant website built using **HTML and CSS**.  
+Created pages for the menu, gallery, reservation, login, signup, feedback, and cart.
 
-[View Repository](https://github.com/DevadasuGudari/foodie-s-kitchen)
-
----
-
-### 📚 LearnHub
-
-A MERN Stack learning platform developed as a **group project**.  
-Built to help students explore courses through a simple and responsive interface.
-
-**MongoDB • Express.js • React.js • Node.js**
-
-[View Repository](https://github.com/DevadasuGudari/LearnHub-repo)
+🔗 [Repository](https://github.com/DevadasuGudari/foodie-s-kitchen)
 
 ---
 
-### 💼 Personal Portfolio
+## 📚 LearnHub
+
+A MERN Stack learning platform built as a **group project**.  
+Used **MongoDB, Express.js, React.js, and Node.js** to create a simple course-based learning website.
+
+🔗 [Repository](https://github.com/DevadasuGudari/LearnHub-repo)
+
+---
+
+## 💼 Personal Portfolio
 
 A personal portfolio website built using **HTML, CSS, and JavaScript**.  
-Showcases my skills, projects, education, and contact information.
+Created to showcase my skills, projects, education, and contact information.
 
-[View Repository](https://github.com/DevadasuGudari/portfolio-repo)  
-[Live Website](https://devadas-portfolio.netlify.app/)
+🔗 [Repository](https://github.com/DevadasuGudari/portfolio-repo)
 
----
-
-### 🎨 HTML & CSS Reference
-
-A simple reference website created using **HTML and CSS**.  
-Covers basic HTML and CSS concepts such as selectors, box model, layouts, and responsive design.
-
-[View Repository](https://github.com/DevadasuGudari/html-reference-repo)
+🌐 [Live Website](https://devadas-portfolio.netlify.app/)
 
 ---
 
-### 🚗 Velocity Motors
+## 🎨 HTML & CSS Reference
 
-A responsive car landing page created using **HTML and CSS**.  
-Designed to practice modern layouts, navigation, and responsive web design.
+A simple learning website built using **HTML and CSS**.  
+Created to explain HTML and CSS concepts such as selectors, box model, layouts, responsive design, and animations.
 
-[View Repository](https://github.com/DevadasuGudari/landing-page)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevadasuGudari&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevadasuGudari&theme=dark&hide_border=true&layout=compact)
+🔗 [Repository](https://github.com/DevadasuGudari/html-reference-repo)
 
 ---
 
-## 🌱 Currently Learning
+## 🚗 Velocity Motors
+
+A responsive car landing page built using **HTML and CSS**.  
+Created to practice modern layouts, responsive design, navigation, and car presentation.
+
+🔗 [Repository](https://github.com/DevadasuGudari/landing-page)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=DevadasuGudari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=DevadasuGudari&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevadasuGudari&theme=dark&hide_border=false&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=DevadasuGudari&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+# 🌱 Currently Learning
 
 - JavaScript
 - React.js
@@ -107,10 +127,12 @@ Designed to practice modern layouts, navigation, and responsive web design.
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
-To start my career as a **Software / Full Stack Developer**, contribute to real-world projects, and continuously improve my technical skills.
+To start my career as a **Software / Full Stack Developer** and grow by working on real-world projects.
 
 ---
 
-### Thanks for visiting my profile! 👋
+## ⭐ Thanks for Visiting My Profile!
+
+**Learn → Build → Improve → Grow 🚀**
