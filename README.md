@@ -1,41 +1,40 @@
-# 👋 Hey there, I'm Gudari Devadasu!
+# 👋 Hi, I'm Gudari Devadasu
 
-<h3 align="center">
-  💻 Aspiring Full Stack Developer | 🎓 B.Tech CSE Graduate | 🚀 Builder & Learner
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;B.Tech+Computer+Science+Graduate;Java+%7C+React+%7C+JavaScript+Developer;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/DevadasuGudari">
     <img src="https://img.shields.io/badge/GitHub-DevadasuGudari-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://devadas-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/gudari-devadasu-81141130a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevadasuGudari&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=DevadasuGudari&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views">
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 Hi! I'm **Gudari Devadasu**, a **B.Tech Computer Science & Engineering graduate** and an aspiring **Full Stack Developer**.
 
-I enjoy turning ideas into **responsive, interactive, and user-friendly web applications**. I learn by building real projects, solving problems, experimenting with technologies, and improving step by step.
+I enjoy turning ideas into **responsive, interactive, and user-friendly web applications**. I learn by building real projects, solving problems, experimenting with technologies, and improving my skills step by step.
 
 🌱 Currently focusing on **Java, Spring Boot, React.js, JavaScript, MySQL, and MongoDB**.
 
-🎯 My goal is to start my career as a **Software / Full Stack Developer** and contribute to meaningful real-world projects.
+🚀 My goal is to start my career as a **Software / Full Stack Developer** and contribute to real-world projects.
 
-> 💡 **Learn → Build → Break → Fix → Improve → Repeat 🚀**
+> 💡 **Learn → Build → Improve → Grow 🚀**
 
 ---
-
 
 ## 🌐 Let's Connect
 
