@@ -1,9 +1,23 @@
-# 👋 Hi, I'm Gudari Devadasu
+# 👋 Hey there, I'm Gudari Devadasu!
 
-### 💻 B.Tech CSE Graduate | Aspiring Full Stack Developer
+<h3 align="center">
+  💻 Aspiring Full Stack Developer | 🎓 B.Tech CSE Graduate | 🚀 Builder & Learner
+</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DevadasuGudari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <a href="https://github.com/DevadasuGudari">
+    <img src="https://img.shields.io/badge/GitHub-DevadasuGudari-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://devadas-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/gudari-devadasu-81141130a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevadasuGudari&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
@@ -12,14 +26,16 @@
 
 Hi! I'm **Gudari Devadasu**, a **B.Tech Computer Science & Engineering graduate** and an aspiring **Full Stack Developer**.
 
-💡 I enjoy turning ideas into **responsive and user-friendly web applications**.
-🛠️ I learn by **building real projects** and improving my skills through practical experience.
-🌱 Currently focusing on **Java, Spring Boot, React.js, JavaScript, MySQL, and MongoDB**.
-🎯 Looking for an opportunity to start my career as a **Software / Full Stack Developer**.
+I enjoy turning ideas into **responsive, interactive, and user-friendly web applications**. I learn by building real projects, solving problems, experimenting with technologies, and improving step by step.
 
-> **Learn → Build → Improve → Grow 🚀**
+🌱 Currently focusing on **Java, Spring Boot, React.js, JavaScript, MySQL, and MongoDB**.
+
+🎯 My goal is to start my career as a **Software / Full Stack Developer** and contribute to meaningful real-world projects.
+
+> 💡 **Learn → Build → Break → Fix → Improve → Repeat 🚀**
 
 ---
+
 
 ## 🌐 Let's Connect
 
