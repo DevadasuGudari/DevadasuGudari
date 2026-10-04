@@ -39,12 +39,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Tools
+### Tools & Design
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
 ---
 
@@ -52,11 +54,8 @@
 
 ## 🍽️ Foodie's Kitchen
 
-Restaurant website for viewing food, menu and restaurant services.
-
-**Tech:** HTML, CSS
-
-**Features:** Menu • Gallery • Reservation • Login • Signup • Cart
+A responsive restaurant website built using **HTML and CSS**.  
+Created pages for the menu, gallery, reservation, login, signup, feedback, and cart.
 
 🔗 [Repository](https://github.com/DevadasuGudari/foodie-s-kitchen)
 
@@ -64,11 +63,8 @@ Restaurant website for viewing food, menu and restaurant services.
 
 ## 📚 LearnHub
 
-Learning platform where students can explore and learn different courses.
-
-**Tech:** MongoDB • Express.js • React.js • Node.js
-
-**Features:** Courses • Student UI • Responsive Design
+A MERN Stack learning platform built as a **group project**.  
+Used **MongoDB, Express.js, React.js, and Node.js** to create a simple course-based learning website.
 
 🔗 [Repository](https://github.com/DevadasuGudari/LearnHub-repo)
 
@@ -76,11 +72,8 @@ Learning platform where students can explore and learn different courses.
 
 ## 💼 Personal Portfolio
 
-My personal website to showcase my skills, projects and education.
-
-**Tech:** HTML • CSS • JavaScript
-
-**Features:** About • Skills • Projects • Education • Contact
+A personal portfolio website built using **HTML, CSS, and JavaScript**.  
+Created to showcase my skills, projects, education, and contact information.
 
 🔗 [Repository](https://github.com/DevadasuGudari/portfolio-repo)
 
@@ -90,11 +83,8 @@ My personal website to showcase my skills, projects and education.
 
 ## 🎨 HTML & CSS Reference
 
-Simple website for learning basic HTML and CSS concepts.
-
-**Tech:** HTML • CSS
-
-**Topics:** HTML • CSS • Selectors • Box Model • Layout • Responsive Design
+A simple learning website built using **HTML and CSS**.  
+Created to explain HTML and CSS concepts such as selectors, box model, layouts, responsive design, and animations.
 
 🔗 [Repository](https://github.com/DevadasuGudari/html-reference-repo)
 
@@ -102,11 +92,8 @@ Simple website for learning basic HTML and CSS concepts.
 
 ## 🚗 Velocity Motors
 
-Car landing page created to practice frontend design and responsive layouts.
-
-**Tech:** HTML • CSS
-
-**Features:** Cars • Information • Responsive Design • Modern UI
+A responsive car landing page built using **HTML and CSS**.  
+Created to practice modern layouts, responsive design, navigation, and car presentation.
 
 🔗 [Repository](https://github.com/DevadasuGudari/landing-page)
 
