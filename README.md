@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevadasuGudari&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views">
-</p>
-
 ---
 
 ## 👨‍💻 About Me
