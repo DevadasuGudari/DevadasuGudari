@@ -4,7 +4,7 @@
 
 🎓 B.Tech Computer Science & Engineering Graduate  
 💻 Aspiring Full Stack Developer  
-🌱 Currently learning Java, JavaScript, React.js & Spring Boot  
+🌱 Learning Java, JavaScript, React.js & Spring Boot  
 🚀 Building real-world projects  
 🎯 Looking for Software / Full Stack Developer opportunities  
 
@@ -19,7 +19,7 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
 
@@ -52,82 +52,37 @@
 
 ## 🍽️ Foodie's Kitchen
 
-### 📌 About the Project
+Restaurant website for viewing food, menu and restaurant services.
 
-Foodie's Kitchen is a **restaurant website** created to provide users with a simple and attractive way to explore a restaurant and its food items.
+**Tech:** HTML, CSS
 
-The website contains different pages for the menu, gallery, reservation, login, signup, and feedback.
+**Features:** Menu • Gallery • Reservation • Login • Signup • Cart
 
-### 🛠️ Technologies Used
-
-- HTML
-- CSS
-
-### ✨ Features
-
-- Restaurant Menu
-- Food Gallery
-- Reservation Page
-- Login & Signup
-- Feedback Page
-- Add to Cart
-- Responsive Design
-
-🔗 [View Repository](https://github.com/DevadasuGudari/foodie-s-kitchen)
+🔗 [Repository](https://github.com/DevadasuGudari/foodie-s-kitchen)
 
 ---
 
 ## 📚 LearnHub
 
-### 📌 About the Project
+Learning platform where students can explore and learn different courses.
 
-LearnHub is a **learning platform** where students can explore courses and improve their technical skills.
+**Tech:** MongoDB • Express.js • React.js • Node.js
 
-This project was developed as a **group project using the MERN Stack**.
+**Features:** Courses • Student UI • Responsive Design
 
-### 🛠️ Technologies Used
-
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-
-### ✨ Features
-
-- Course Listing
-- Student Interface
-- Learning Platform
-- Responsive Design
-- User-Friendly UI
-
-🔗 [View Repository](https://github.com/DevadasuGudari/LearnHub-repo)
+🔗 [Repository](https://github.com/DevadasuGudari/LearnHub-repo)
 
 ---
 
 ## 💼 Personal Portfolio
 
-### 📌 About the Project
+My personal website to showcase my skills, projects and education.
 
-This is my **personal portfolio website** created to showcase my skills, projects, education, and development journey.
+**Tech:** HTML • CSS • JavaScript
 
-It provides a simple way for recruiters and visitors to learn more about me.
+**Features:** About • Skills • Projects • Education • Contact
 
-### 🛠️ Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-
-### ✨ Features
-
-- About Me
-- Skills
-- Projects
-- Education
-- Contact
-- Responsive Design
-
-🔗 [View Repository](https://github.com/DevadasuGudari/portfolio-repo)
+🔗 [Repository](https://github.com/DevadasuGudari/portfolio-repo)
 
 🌐 [Live Website](https://devadas-portfolio.netlify.app/)
 
@@ -135,55 +90,25 @@ It provides a simple way for recruiters and visitors to learn more about me.
 
 ## 🎨 HTML & CSS Reference
 
-### 📌 About the Project
+Simple website for learning basic HTML and CSS concepts.
 
-HTML & CSS Reference is a **simple learning website** created to help beginners understand basic HTML and CSS concepts.
+**Tech:** HTML • CSS
 
-It explains concepts in an easy-to-understand way.
+**Topics:** HTML • CSS • Selectors • Box Model • Layout • Responsive Design
 
-### 🛠️ Technologies Used
-
-- HTML
-- CSS
-
-### ✨ Topics Covered
-
-- HTML Basics
-- CSS Basics
-- Selectors
-- Colors
-- Typography
-- Box Model
-- Layout
-- Responsive Design
-- Animations
-
-🔗 [View Repository](https://github.com/DevadasuGudari/html-reference-repo)
+🔗 [Repository](https://github.com/DevadasuGudari/html-reference-repo)
 
 ---
 
 ## 🚗 Velocity Motors
 
-### 📌 About the Project
+Car landing page created to practice frontend design and responsive layouts.
 
-Velocity Motors is a **car landing page** created to practice frontend development and modern website layouts.
+**Tech:** HTML • CSS
 
-The website presents car information using a clean and responsive design.
+**Features:** Cars • Information • Responsive Design • Modern UI
 
-### 🛠️ Technologies Used
-
-- HTML
-- CSS
-
-### ✨ Features
-
-- Car Showcase
-- Car Information
-- Responsive Design
-- Modern Layout
-- Navigation
-
-🔗 [View Repository](https://github.com/DevadasuGudari/landing-page)
+🔗 [Repository](https://github.com/DevadasuGudari/landing-page)
 
 ---
 
@@ -209,7 +134,6 @@ The website presents car information using a clean and responsive design.
 - React.js
 - Java
 - Spring Boot
-- Backend Development
 - MySQL
 - MongoDB
 - Full Stack Development
@@ -218,14 +142,10 @@ The website presents car information using a clean and responsive design.
 
 # 🎯 Career Goal
 
-I am looking for an opportunity to start my career as a **Software / Full Stack Developer**.
-
-I want to work on real-world projects, improve my technical skills, and grow as a software developer.
+To start my career as a **Software / Full Stack Developer** and grow by working on real-world projects.
 
 ---
 
-# ⭐ Thanks for Visiting My Profile!
+## ⭐ Thanks for Visiting My Profile!
 
-Feel free to explore my repositories and projects.
-
-### 🚀 Learn → Build → Improve → Grow
+**Learn → Build → Improve → Grow 🚀**
