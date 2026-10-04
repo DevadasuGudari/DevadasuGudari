@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/gudari-devadasu-81141130a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
