@@ -2,7 +2,7 @@
 
 ### B.Tech CSE Graduate | Aspiring Full Stack Developer
 
-🎓 Computer Science & Engineering Graduate  
+🎓 B.Tech Computer Science & Engineering Graduate  
 💻 Aspiring Full Stack Developer  
 🌱 Currently learning Java, JavaScript, React.js & Spring Boot  
 🚀 Building real-world projects  
@@ -19,24 +19,28 @@
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ### Backend
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 ### Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -44,60 +48,111 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Projects
 
-### 🍽️ Foodie's Kitchen
+## 🍽️ Foodie's Kitchen
 
-Restaurant website with a modern and responsive design.
+### 📌 About the Project
 
-**Tech:** HTML, CSS
+Foodie's Kitchen is a **restaurant website** created to provide users with a simple and attractive way to explore a restaurant and its food items.
 
-- Menu
-- Gallery
-- Reservation
+The website contains different pages for the menu, gallery, reservation, login, signup, and feedback.
+
+### 🛠️ Technologies Used
+
+- HTML
+- CSS
+
+### ✨ Features
+
+- Restaurant Menu
+- Food Gallery
+- Reservation Page
 - Login & Signup
-- Feedback
+- Feedback Page
 - Add to Cart
+- Responsive Design
 
 🔗 [View Repository](https://github.com/DevadasuGudari/foodie-s-kitchen)
 
 ---
 
-### 📚 LearnHub
+## 📚 LearnHub
 
-MERN Stack learning platform developed as a group project.
+### 📌 About the Project
 
-**Tech:** MongoDB, Express.js, React.js, Node.js
+LearnHub is a **learning platform** where students can explore courses and improve their technical skills.
 
-- Course-based platform
-- Student-focused UI
-- Responsive design
+This project was developed as a **group project using the MERN Stack**.
+
+### 🛠️ Technologies Used
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
+### ✨ Features
+
+- Course Listing
+- Student Interface
+- Learning Platform
+- Responsive Design
+- User-Friendly UI
 
 🔗 [View Repository](https://github.com/DevadasuGudari/LearnHub-repo)
 
 ---
 
-### 💼 Personal Portfolio
+## 💼 Personal Portfolio
 
-Personal website to showcase my skills, projects and education.
+### 📌 About the Project
 
-**Tech:** HTML, CSS, JavaScript
+This is my **personal portfolio website** created to showcase my skills, projects, education, and development journey.
+
+It provides a simple way for recruiters and visitors to learn more about me.
+
+### 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+### ✨ Features
+
+- About Me
+- Skills
+- Projects
+- Education
+- Contact
+- Responsive Design
 
 🔗 [View Repository](https://github.com/DevadasuGudari/portfolio-repo)
 
-🌐 [Live Portfolio](https://devadas-portfolio.netlify.app/)
+🌐 [Live Website](https://devadas-portfolio.netlify.app/)
 
 ---
 
-### 🎨 HTML & CSS Reference
+## 🎨 HTML & CSS Reference
 
-Simple website for learning HTML and CSS concepts.
+### 📌 About the Project
 
-**Tech:** HTML, CSS
+HTML & CSS Reference is a **simple learning website** created to help beginners understand basic HTML and CSS concepts.
+
+It explains concepts in an easy-to-understand way.
+
+### 🛠️ Technologies Used
+
+- HTML
+- CSS
+
+### ✨ Topics Covered
 
 - HTML Basics
 - CSS Basics
 - Selectors
+- Colors
+- Typography
 - Box Model
 - Layout
 - Responsive Design
@@ -107,17 +162,32 @@ Simple website for learning HTML and CSS concepts.
 
 ---
 
-### 🚗 Velocity Motors
+## 🚗 Velocity Motors
 
-Responsive car landing page created using HTML and CSS.
+### 📌 About the Project
 
-**Tech:** HTML, CSS
+Velocity Motors is a **car landing page** created to practice frontend development and modern website layouts.
+
+The website presents car information using a clean and responsive design.
+
+### 🛠️ Technologies Used
+
+- HTML
+- CSS
+
+### ✨ Features
+
+- Car Showcase
+- Car Information
+- Responsive Design
+- Modern Layout
+- Navigation
 
 🔗 [View Repository](https://github.com/DevadasuGudari/landing-page)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=DevadasuGudari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -127,7 +197,13 @@ Responsive car landing page created using HTML and CSS.
 
 ---
 
-## 🌱 Currently Learning
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=DevadasuGudari&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+# 🌱 Currently Learning
 
 - JavaScript
 - React.js
@@ -140,12 +216,16 @@ Responsive car landing page created using HTML and CSS.
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
-To start my career as a **Software / Full Stack Developer** and grow by working on real-world projects.
+I am looking for an opportunity to start my career as a **Software / Full Stack Developer**.
+
+I want to work on real-world projects, improve my technical skills, and grow as a software developer.
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# ⭐ Thanks for Visiting My Profile!
 
-**Learn → Build → Improve → Grow 🚀**
+Feel free to explore my repositories and projects.
+
+### 🚀 Learn → Build → Improve → Grow
