@@ -1,52 +1,23 @@
 # 👋 Hi, I'm Gudari Devadasu
 
 <p align="center">
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;B.Tech+Computer+Science+Graduate;Java+%7C+React+%7C+JavaScript+Developer;Building+Projects+%7C+Learning+Every+Day"
-    alt="Typing SVG"
-  />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;B.Tech+Computer+Science+Graduate;Java+%7C+React+%7C+JavaScript+Developer;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
 </p>
 
 <p align="center">
-
   <a href="https://github.com/DevadasuGudari">
-
-    <img
-      src="https://img.shields.io/badge/GitHub-DevadasuGudari-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    >
-
+    <img src="https://img.shields.io/badge/GitHub-DevadasuGudari-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-
   <a href="https://devadas-portfolio.netlify.app/">
-
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    >
-
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-
   <a href="https://www.linkedin.com/in/gudari-devadasu-81141130a/">
-
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    >
-
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
 </p>
 
 <p align="center">
-
-  <img
-    src="https://komarev.com/ghpvc/?username=DevadasuGudari&label=Profile%20Views&color=36BCF7&style=for-the-badge"
-    alt="Profile Views"
-  >
-
+  <img src="https://komarev.com/ghpvc/?username=DevadasuGudari&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views">
 </p>
 
 ---
