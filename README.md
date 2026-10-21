@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gudari Devadasu
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;B.Tech+Computer+Science+Graduate;Java+%7C+React+%7C+JavaScript+Developer;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;B.Tech+Computer+Science+Graduate;Java+%7C+React+%7C+JavaScript+Developer;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
 </p>
 
 <p align="center">
